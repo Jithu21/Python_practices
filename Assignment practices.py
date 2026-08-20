@@ -1,4 +1,5 @@
-# 1. Electricity bill calculation: units= int(input("Enter your bill here"))
+# 1. Electricity bill calculation:
+units= int(input("Enter your bill here"))
 if units <=100:
     print(units*5)
 elif units >201 and units <=300:
@@ -80,6 +81,7 @@ elif triangle_firstside != triangle_secondside !=triangle_thirdside:
     print("Triangle numbers are not equal and not isosceles and its Scalene")
 else:
     print("valid Number ")
+
 
 
 
