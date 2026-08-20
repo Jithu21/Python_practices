@@ -67,7 +67,6 @@ if num3 > num1 and num3 < num2:
 
 
 
-
 # 6. Triangle validation
 
 triangle_firstside = int(input("Enter a triangle number: "))
